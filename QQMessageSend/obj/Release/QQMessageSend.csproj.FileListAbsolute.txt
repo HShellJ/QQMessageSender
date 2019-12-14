@@ -1,0 +1,8 @@
+C:\Users\Trevor\source\repos\QQMessageSend\QQMessageSend\bin\Release\QQMessageSend.exe
+C:\Users\Trevor\source\repos\QQMessageSend\QQMessageSend\bin\Release\QQMessageSend.pdb
+C:\Users\Trevor\source\repos\QQMessageSend\QQMessageSend\obj\Release\QQMessageSend.Form1.resources
+C:\Users\Trevor\source\repos\QQMessageSend\QQMessageSend\obj\Release\QQMessageSend.Form2.resources
+C:\Users\Trevor\source\repos\QQMessageSend\QQMessageSend\obj\Release\QQMessageSend.Properties.Resources.resources
+C:\Users\Trevor\source\repos\QQMessageSend\QQMessageSend\obj\Release\QQMessageSend.csproj.GenerateResource.cache
+C:\Users\Trevor\source\repos\QQMessageSend\QQMessageSend\obj\Release\QQMessageSend.exe
+C:\Users\Trevor\source\repos\QQMessageSend\QQMessageSend\obj\Release\QQMessageSend.pdb
