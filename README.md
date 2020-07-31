@@ -8,3 +8,6 @@ Github也才刚用不久...
 2020/3/15  
 我发现这玩意好像不能用了  
 反正现在事多()，以后再改吧  
+  
+仓库改成用gitee了，链接  
+https://gitee.com/hshellj/QQMessageSender
